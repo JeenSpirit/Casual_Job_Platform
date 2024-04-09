@@ -20,7 +20,7 @@ import ShortCutBar from '../ShortCutBar/ShortCutBar';
 import { useLocation } from 'react-router-dom';
 
 //Data to be collected from backend
-const pages = ['Get Premium', 'Explore', 'Become a Seller', 'Sign in', 'Join'];
+const pages = ['Get Premium', 'Explore', 'Become a Seller', 'Sign in'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 const explore = [
     { title: 'Discover', content: 'Inspiring projects made on our platform' },
@@ -134,20 +134,20 @@ function ResponsiveAppBar() {
     }, [])
 
     useEffect(() => {
-        setIsHome(location.pathname==='/')
+        setIsHome(location.pathname === '/')
     }, [location])
 
     return (
         <>
-            <AppBar position= {isHome? "fixed":'relative'} sx={{
+            <AppBar position={isHome ? "fixed" : 'relative'} sx={{
                 backgroundColor: isHome ? headerBG : 'primary',
                 width: '100%',
                 boxShadow: 'none',
                 transition: 'background-color 0.5s ease-in-out',
                 height: '70px',
-                
+
             }}>
-                <Toolbar sx={{ justifyContent: 'space-between', alignItems: 'center', height: '100%', margin:'0 15px'}} disableGutters>
+                <Toolbar sx={{ justifyContent: 'space-between', alignItems: 'center', height: '100%', margin: '0 15px' }} disableGutters>
                     <AdbIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
                     <Typography
                         variant="h6"
@@ -239,12 +239,22 @@ function ResponsiveAppBar() {
                             <Button
                                 key={page}
                                 onClick={(e) => handleOpenExtraNavMenu(e, page)}
-                                sx={{ my: 2, mx: 1, color: 'white', display: 'block' }}
+                                sx={{ my: 2, mx: 1, color: 'white', display: 'block',':hover':{fontWeight:700} }}
                             >
                                 {page}
                             </Button>
 
                         ))}
+                        <Button variant='outlined' sx={{
+                            
+                            color: 'white',
+                            margin: '10px 10px',
+                            borderColor: 'white',
+                            ':hover':{
+                                backgroundColor:'green',
+                                borderColor:'green'
+                            }
+                        }}>Join</Button>
                         <Menu
                             id='explore-menu'
                             anchorEl={anchorElExploreMenu}
