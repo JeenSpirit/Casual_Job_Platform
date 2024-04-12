@@ -18,6 +18,7 @@ import { styled, alpha } from '@mui/material/styles';
 import InputBase from '@mui/material/InputBase';
 import ShortCutBar from '../ShortCutBar/ShortCutBar';
 import { useLocation } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 
 //Data to be collected from backend
 const pages = ['Get Premium', 'Explore', 'Become a Seller', 'Sign in'];
@@ -245,7 +246,7 @@ function ResponsiveAppBar() {
                             </Button>
 
                         ))}
-                        <Button variant='outlined' sx={{
+                        <Button component={Link} to='/signup' variant='outlined' sx={{
                             
                             color: 'white',
                             margin: '10px 10px',
