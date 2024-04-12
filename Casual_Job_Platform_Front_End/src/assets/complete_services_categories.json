@@ -1,0 +1,714 @@
+[
+    {
+        "id": "Graphics & Design",
+        "categories": [
+            {
+                "title": "Logo & Brand Identity",
+                "content": [
+                    "Logo Design",
+                    "Brand Style Guides",
+                    "Business Cards & Stationery",
+                    "Fonts & Typography",
+                    "Logo Maker Tool"
+                ]
+            },
+
+            {
+                "title": "Art & Illustration",
+                "content": [
+                    "Illustration",
+                    "AI Artists",
+                    "AI Avatar Design",
+                    "Children's Book Illustration",
+                    "Portraits & Caricatures",
+                    "Cartoons & Comics",
+                    "Pattern Design",
+                    "Tattoo Design",
+                    "Storyboards",
+                    "NFT Art"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Programming & Tech",
+        "categories": [
+            {
+                "title": "Website Development",
+                "content": [
+                    "Business Websites",
+                    "E-Commerce Development",
+                    "Landing Pages",
+                    "Dropshipping Websites",
+                    "Build a Complete Website"
+                ]
+            },
+
+            {
+                "title": "Website Platforms",
+                "content": [
+                    "WordPress",
+                    "Shopify",
+                    "Wix",
+                    "Custom Websites",
+                    "GoDaddy"
+                ]
+            },
+            {
+                "title": "Website Maintenance",
+                "content": [
+                    "Website Customization",
+                    "Bug Fixes",
+                    "Backup & Migration",
+                    "Speed Optimization"
+                ]
+            },
+            {
+                "title": "AI Development",
+                "content": [
+                    "AI Chatbot",
+                    "AI Applications",
+                    "AI Integrations",
+                    "AI Agents",
+                    "AI Fine-Tuning",
+                    "Custom GPT Apps"
+                ]
+            },
+            {
+                "title": "Chatbot Development",
+                "content": [
+                    "Discord",
+                    "Telegram",
+                    "Botpress",
+                    "TikTok",
+                    "Facebook Messenger"
+                ]
+            },
+            {
+                "title": "Game Development",
+                "content": [
+                    "PC Games",
+                    "Mobile Games",
+                    "Console Games",
+                    "VR Games"
+                ]
+            },
+            {
+                "title": "Mobile App Development",
+                "content": [
+                    "Cross-platform Development",
+                    "Android App Development",
+                    "IOS App Development",
+                    "Website to App",
+                    "Mobile App Maintenance"
+                ]
+            },
+            {
+                "title": "Wearable App Development",
+                "content": [
+                    "Smartwatch Development",
+                    "VR Headset Development"
+                ]
+            },
+            {
+                "title": "Support & Cybersecurity",
+                "content": [
+                    "Support & IT",
+                    "Cloud Computing",
+                    "DevOps Engineering",
+                    "Cybersecurity",
+                    "Convert Files"
+                ]
+            },
+            {
+                "title": "Software Development",
+                "content": [
+                    "Web Applications",
+                    "Desktop Applications",
+                    "APIs & Integrations",
+                    "Scripting",
+                    "Browser Extensions",
+                    "QA & Review",
+                    "User Testing"
+                ]
+            },
+            {
+                "title": "Blockchain & Cryptocurrency",
+                "content": [
+                    "Decentralized Apps",
+                    "Coins & Tokens",
+                    "E-wallet Development",
+                    "NFT Development"
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "content": [
+                    "Electronics Engineering",
+                    "Development for Streamers"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Digital Marketing",
+        "categories": [
+            {
+                "title": "Search",
+                "content": [
+                    "Search Engine Optimization (SEO)",
+                    "Search Engine Marketing (SEM)",
+                    "Local SEO",
+                    "E-Commerce SEO",
+                    "Video SEO"
+                ]
+            },
+
+            {
+                "title": "Social",
+                "content": [
+                    "Social Media Marketing",
+                    "Paid Social Media",
+                    "Influencer Marketing",
+                    "Community Management"
+                ]
+            },
+            {
+                "title": "Methods & Techniques",
+                "content": [
+                    "Video Marketing",
+                    "E-Commerce Marketing",
+                    "Email Marketing",
+                    "Guest Posting",
+                    "Affiliate Marketing",
+                    "Display Advertising",
+                    "Public Relations",
+                    "Text Message Marketing"
+                ]
+            },
+            {
+                "title": "Channel Specific",
+                "content": [
+                    "TikTok Shop",
+                    "Facebook Ads Campaign",
+                    "Instagram Marketing",
+                    "Google SEM",
+                    "Shopify Marketing"
+                ]
+            },
+            {
+                "title": "Analytics & Strategy",
+                "content": [
+                    "Marketing Strategy",
+                    "Marketing Advice",
+                    "Web Analytics"
+                ]
+            },
+            {
+                "title": "Industry & Purpose-Specific",
+                "content": [
+                    "Music Promotion",
+                    "Podcast Marketing",
+                    "Book & eBook Marketing",
+                    "Mobile App Marketing"
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "content": [
+                    "Crowdfunding",
+                    "Other"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Video & Animation",
+        "categories": [
+            {
+                "title": "Editing & Post-Production",
+                "content": [
+                    "Video Editing",
+                    "Visual Effects",
+                    "Video Art"
+                ]
+            },
+            {
+                "title": "Social & Marketing Videos",
+                "content": [
+                    "Video Ads & Commercials",
+                    "Social Media Videos",
+                    "UGC Videos",
+                    "Music Videos",
+                    "Slideshow Videos"
+                ]
+            },
+            {
+                "title": "Animation",
+                "content": [
+                    "Character Animation",
+                    "Animated GIFs",
+                    "Animation for Kids",
+                    "Animation for Streamers",
+                    "Rigging",
+                    "NFT Animation"
+                ]
+            },
+            {
+                "title": "Motion Graphics",
+                "content": [
+                    "Logo Animation",
+                    "Lottie & Web Animation",
+                    "Text Animation"
+                ]
+            },
+            {
+                "title": "Filmed Video Production",
+                "content": [
+                    "Videographers",
+                    "Filmed Video Production"
+                ]
+            },
+            {
+                "title": "Explainer Videos",
+                "content": [
+                    "Animated Explainers",
+                    "Live Action Explainers",
+                    "Spokesperson Videos",
+                    "Screencasting Videos",
+                    "eLearning Video Production",
+                    "Crowdfunding Videos"
+                ]
+            },
+            {
+                "title": "Product Videos",
+                "content": [
+                    "3D Product Animation",
+                    "E-Commerce Product Videos",
+                    "Corporate Videos",
+                    "App & Website Previews"
+                ]
+            },
+            {
+                "title": "AI Video",
+                "content": [
+                    "AI Video Art",
+                    "AI Music Videos",
+                    "AI Spokespersons Videos"
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "content": [
+                    "Article to Video",
+                    "Game Trailers",
+                    "Meditation Videos",
+                    "Real Estate Promos",
+                    "Book Trailers",
+                    "Video Advice",
+                    "Other"
+                ]
+            },
+            {
+                "title": "Photography",
+                "content": [
+                    "Product Photographers",
+                    "Portrait Photographers",
+                    "Lifestyle & Fashion Photographers",
+                    "Local Photographers"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Writing & Translation",
+        "categories": [
+            {
+                "title": "Content Writing",
+                "content": [
+                    "Articles & Blog Posts",
+                    "Content Strategy",
+                    "Website Content"
+                ]
+            },
+            {
+                "title": "Industry Specific Content",
+                "content": [
+                    "Business, Finance & Law",
+                    "Health & Medical",
+                    "Internet & Technology",
+                    "News & Politics",
+                    "Marketing",
+                    "Real Estate"
+                ]
+            },
+            {
+                "title": "Editing & Critique",
+                "content": [
+                    "Proofreading & Editing",
+                    "AI Content Editing",
+                    "Writing Advice"
+                ]
+            },
+            {
+                "title": "Book & eBook Publishing",
+                "content": [
+                    "Book & eBook Writing",
+                    "Book Editing",
+                    "Beta Reading",
+                    "Self-Publish Your Book"
+                ]
+            },
+            {
+                "title": "Career Writing",
+                "content": [
+                    "Resume Writing",
+                    "Cover Letters",
+                    "LinkedIn Profiles",
+                    "Job Descriptions"
+                ]
+            },
+            {
+                "title": "Business & Marketing Copy",
+                "content": [
+                    "Brand Voice & Tone",
+                    "Business Names & Slogans",
+                    "Case Studies",
+                    "White Papers",
+                    "Product Descriptions",
+                    "Ad Copy",
+                    "Sales Copy",
+                    "Email Copy",
+                    "Social Media Copy",
+                    "Press Releases",
+                    "UX Writing"
+                ]
+            },
+            {
+                "title": "Translation & Transcription",
+                "content": [
+                    "Translate",
+                    "Localization",
+                    "Transcription"
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "content": [
+                    "eLearning Content Development",
+                    "Technical Writing"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Music & Audio",
+        "categories": [
+            {
+                "title": "Music Production & Writing",
+                "content": [
+                    "Music Producers",
+                    "Composers",
+                    "Singers & Vocalists"
+                ]
+            },
+            {
+                "title": "Audio Engineering & Post Production",
+                "content": [
+                    "Mixing & Mastering",
+                    "Audio Editing",
+                    "Vocal Tuning"
+                ]
+            },
+            {
+                "title": "Voice Over & Narration",
+                "content": [
+                    "Voice Over",
+                    "Female Voice Over",
+                    "Male Voice Over",
+                    "French Voice Over",
+                    "German Voice Over",
+                    "24hr Turnaround"
+                ]
+            },
+            {
+                "title": "Streaming & Audio",
+                "content": [
+                    "Podcast Production",
+                    "Audiobook Production",
+                    "Audio Ads Production",
+                    "Voice Synthesis & AI"
+                ]
+            },
+            {
+                "title": "DJing",
+                "content": [
+                    "DJ Drops & Tags",
+                    "DJ Mixing",
+                    "Remixing"
+                ]
+            },
+            {
+                "title": "Sound Design",
+                "content": [
+                    "Sound Design",
+                    "Meditation Music",
+                    "Audio Logo & Sonic Branding",
+                    "Custom Patches & Samples"
+                ]
+            },
+            {
+                "title": "Lessons & Transcriptions",
+                "content": [
+                    "Online Music Lessons",
+                    "Music Transcription",
+                    "Music & Audio Advice"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Business",
+        "categories": [
+            {
+                "title": "General & Administrative",
+                "content": [
+                    "Virtual Assistant",
+                    "Project Management",
+                    "HR Consulting"
+                ]
+            },
+            {
+                "title": "E-Commerce Management",
+                "content": [
+                    "Product Research",
+                    "Store Management",
+                    "Amazon Experts",
+                    "Shopify Experts",
+                    "Etsy Experts"
+                ]
+            },
+            {
+                "title": "Business Management",
+                "content": [
+                    "Business Registration",
+                    "Business Plans",
+                    "Business Consulting",
+                    "Market Research",
+                    "Presentations",
+                    "Product Management",
+                    "ERP Management"
+                ]
+            },
+            {
+                "title": "AI for Businesses",
+                "content": [
+                    "AI Strategy",
+                    "AI Lessons"
+                ]
+            },
+            {
+                "title": "Accounting & Finance",
+                "content": [
+                    "Accounting & Bookkeeping",
+                    "Tax Consulting",
+                    "File Your Taxes",
+                    "Financial Forecasting & Modeling",
+                    "Financial Consulting"
+                ]
+            },
+            {
+                "title": "Sales & Customer Care",
+                "content": [
+                    "Sales",
+                    "Lead Generation",
+                    "Call Center & Calling",
+                    "Customer Care",
+                    "CRM Management"
+                ]
+            },
+            {
+                "title": "Professional Development",
+                "content": [
+                    "Career Counseling",
+                    "Life Coaching"
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "content": [
+                    "Fact Checking",
+                    "Event Management"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Consulting",
+        "categories": [
+            {
+                "title": "Business Consultants",
+                "content": [
+                    "Legal Consulting",
+                    "Financial Consulting",
+                    "Business Consulting"
+                ]
+            },
+            {
+                "title": "Marketing Strategy",
+                "content": [
+                    "Legal Consulting",
+                    "Financial Consulting",
+                    "Business Consulting",
+                    "HR Consulting",
+                    "AI Consulting",
+                    "Business Plans"
+                ]
+            },
+            {
+                "title": "General Topics",
+                "content": [
+                    "E-commerce Consulting",
+                    "Cybersecurity Consulting"
+                ]
+            },
+            {
+                "title": "Business Consultants",
+                "content": [
+                    "Legal Consulting",
+                    "Financial Consulting",
+                    "Business Consulting"
+                ]
+            },
+            {
+                "title": "Tech & Data",
+                "content": [
+                    "Website Consulting",
+                    "Mobile App Consulting",
+                    "Game Development Consulting",
+                    "Software Development Consulting",
+                    "Data Analytics Consulting",
+                    "Databases Consulting"
+                ]
+            },
+            {
+                "title": "Coaching & Advice",
+                "content": [
+                    "Career Counseling",
+                    "Life Coaching",
+                    "Game Coaching",
+                    "Styling & Beauty Advice",
+                    "Travel Advice"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Data",
+        "categories": [
+            {
+                "title": "Data Science & ML",
+                "content": [
+                    "Machine Learning",
+                    "Computer Vision",
+                    "NLP",
+                    "Deep Learning",
+                    "Generative Models",
+                    "Time Series Analysis"
+                ]
+            },
+            {
+                "title": "Data Analysis",
+                "content": [
+                    "Data Analytics",
+                    "Data Visualization",
+                    "Data Annotation",
+                    "Dashboards"
+                ]
+            },
+            {
+                "title": "Data Collection",
+                "content": [
+                    "Data Entry",
+                    "Data Typing",
+                    "Data Scraping",
+                    "Data Formatting",
+                    "Data Cleaning",
+                    "Data Enrichment"
+                ]
+            },
+            {
+                "title": "Data Management",
+                "content": [
+                    "Data Processing",
+                    "Data Engineering",
+                    "Databases",
+                    "Data Governance & Protection"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "AI Services",
+        "categories": [
+            {
+                "title": "AI Development",
+                "content": [
+                    "AI Applications",
+                    "AI Integrations",
+                    "AI Chatbot",
+                    "AI Agents",
+                    "AI Fine-Tuning",
+                    "Custom GPT Apps"
+                ]
+            },
+            {
+                "title": "AI Artists",
+                "content": [
+                    "Midjourney Artists",
+                    "DALL-E Artists",
+                    "Stable Diffusion Artists",
+                    "All AI Art Services"
+                ]
+            },
+            {
+                "title": "AI for Businesses",
+                "content": [
+                    "AI Consulting",
+                    "AI Strategy",
+                    "AI Lessons"
+                ]
+            },
+            {
+                "title": "AI Video",
+                "content": [
+                    "AI Music Videos",
+                    "AI Video Art",
+                    "AI Spokespersons Videos"
+                ]
+            },
+            {
+                "title": "AI Audio",
+                "content": [
+                    "Voice Synthesis & AI",
+                    "Text to Speech"
+                ]
+            },
+            {
+                "title": "AI Content",
+                "content": [
+                    "AI Content Editing",
+                    "Custom Writing Prompts"
+                ]
+            },
+            {
+                "title": "Data",
+                "content": [
+                    "Data Science & ML",
+                    "Data Analytics",
+                    "Data Visualization"
+                ]
+            }
+        ]
+    }
+]
